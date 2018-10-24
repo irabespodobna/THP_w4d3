@@ -1,8 +1,7 @@
 <b> BDD </b> :
-Student
-contient : first_name, last_name, email, timestamps contenu
-Lecture
-contient : name, student_id, timestamps contenu
+Student contient : first_name, last_name, email, timestamps contenu
+
+Lecture contient : name, student_id, timestamps contenu
 
 # Exercices du Mercredi 24 octobre 
 
