@@ -1,8 +1,3 @@
-Install des gems:
-
-   $> cd pinterest/
-   $> bundle install
-
 BDD :
 Users
 contient : first_name, last_name, email, timestamps contenu : générés à la main via
