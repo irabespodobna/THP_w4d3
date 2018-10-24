@@ -1,4 +1,4 @@
-BDD :
+<b> BDD </b>:
 Users
 contient : first_name, last_name, email, timestamps contenu : générés à la main via
 
