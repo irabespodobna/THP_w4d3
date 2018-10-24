@@ -1,24 +1,40 @@
-# README
+Install des gems:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+   $> cd pinterest/
+   $> bundle install
 
-Things you may want to cover:
+BDD :
+Users
+contient : first_name, last_name, email, timestamps contenu : générés à la main via
 
-* Ruby version
+Pin
+contient : url, user_id, timestamps contenu : générés à la main via
 
-* System dependencies
+Comment
+contient : content, user_id, pin_id, timestamps contenu : générés à la main via
 
-* Configuration
+# Exercices du Mercredi 24 octobre 
 
-* Database creation
+Nom | Pseudo Slack
+------------ | -------------
+Pauline Labaisse | @Pauline Labaisse :baby_chick:
 
-* Database initialization
+Nom | Pseudo Slack
+------------ | -------------
+Margaux Cortier | @Margaux Crt :penguin:
 
-* How to run the test suite
+Nom | Pseudo Slack
+------------ | -------------
+Irina Penkovskaia | @Ira P. :octocat:
 
-* Services (job queues, cache servers, search engines, etc.)
+Nom | Pseudo Slack
+------------ | -------------
+Max de Ponfilly | @Max :tiger:
 
-* Deployment instructions
+Nom | Pseudo Slack
+------------ | -------------
+Hélène Martin | @Helene Cbm :panda_face:
 
-* ...
+Nom | Pseudo Slack
+------------ | -------------
+Victor Gabella | @Chartie :bear:
