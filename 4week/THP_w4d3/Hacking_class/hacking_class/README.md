@@ -1,24 +1,31 @@
-# README
+<b> BDD </b> :
+Student
+contient : first_name, last_name, email, timestamps contenu
+Lecture
+contient : name, student_id, timestamps contenu
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Exercices du Mercredi 24 octobre 
 
-Things you may want to cover:
+Nom | Pseudo Slack
+------------ | -------------
+Pauline Labaisse | @Pauline Labaisse :baby_chick:
 
-* Ruby version
+Nom | Pseudo Slack
+------------ | -------------
+Margaux Cortier | @Margaux Crt :penguin:
 
-* System dependencies
+Nom | Pseudo Slack
+------------ | -------------
+Irina Penkovskaia | @Ira P. :octocat:
 
-* Configuration
+Nom | Pseudo Slack
+------------ | -------------
+Max de Ponfilly | @Max :tiger:
 
-* Database creation
+Nom | Pseudo Slack
+------------ | -------------
+Hélène Martin | @Helene Cbm :panda_face:
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Nom | Pseudo Slack
+------------ | -------------
+Victor Gabella | @Chartie :bear:
